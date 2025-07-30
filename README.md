@@ -14,6 +14,20 @@ I focus on crafting seamless developer experiences, performant backends, and pol
 - Tools I love: **TypeScript, ElysiaJS, NestJS, PostgreSQL, Prisma, FastAPI, Go, Docker**
 - I care about security, maintainability, and DX (Developer Experience)
 
+### Contact Me
+I'm always open to exciting collaborations, impactful projects, or simply tech conversations.
+Feel free to reach out through any of the channels below:
+
+- Portfolio: diallosouleymane.dev
+
+- Email: [diallosouleymane.dev@gmail.com]
+
+- LinkedIn: linkedin.com/in/diallosouleymane-dev
+
+- Twitter/X: @souleymane_dev_
+
+- Telegram: @@souleymane_dev_
+
 
 ### Current Projects
 
