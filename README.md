@@ -20,7 +20,7 @@ Feel free to reach out through any of the channels below:
 
 - Portfolio: diallosouleymane.dev
 
-- Email: [diallosouleymane.dev@gmail.com]
+- Email: diallosouleymane.dev@gmail.com
 
 - LinkedIn: linkedin.com/in/diallosouleymane-dev
 
