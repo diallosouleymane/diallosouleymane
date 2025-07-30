@@ -2,7 +2,6 @@
 
 **Passionate Full-Stack Developer · System Designer · Builder of Digital Futures**
 
----
 
 ### 🧠 About Me
 
@@ -15,7 +14,6 @@ I focus on crafting seamless developer experiences, performant backends, and pol
 - 🛠️ Tools I love: **TypeScript, ElysiaJS, NestJS, PostgreSQL, Prisma, FastAPI, Go, Docker**
 - 🔐 I care about security, maintainability, and DX (Developer Experience)
 
----
 
 ### 🚀 Current Projects
 
@@ -23,7 +21,6 @@ I focus on crafting seamless developer experiences, performant backends, and pol
 - 🔒 **Better Auth Plugin for NestJS** (WIP)  
 - 💰 **Mobile Money API Aggregator**: One SDK to rule them all in Francophone Africa
 
----
 
 ### 🧩 What I Believe In
 
@@ -31,7 +28,6 @@ I focus on crafting seamless developer experiences, performant backends, and pol
 - The best code is the one you never have to write twice.  
 - Africa needs more builders — and I’m here for that.
 
----
 
 ### 📬 Let’s Connect
 
@@ -39,6 +35,5 @@ I focus on crafting seamless developer experiences, performant backends, and pol
 - 📷 GitHub = my playground  
 - 🧠 Currently learning: WebRTC, ONNX, ML, Deep Learning(Honestly I've finished)
 
----
 
 _“Don't just learn to code. Learn to think.”_
