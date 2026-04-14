@@ -1,53 +1,31 @@
-# 👋 Hi, I’m Souleymane Diallo ❤️
+# Souleymane Diallo
 
-**Passionate Full-Stack Developer · System Designer · Builder of Digital Futures**
+**AI Engineer & Full-Stack Developer** — CTO @ [Adinrin Intelligence Systems](https://github.com/adinrin)  
+Building AI infrastructure and SaaS products for African markets, from Abidjan.
 
+---
 
-### About Me
+### What I work on
 
-I'm a software engineer from Côte d’Ivoire with a strong drive for building pragmatic, scalable, and elegant systems.  
-I focus on crafting seamless developer experiences, performant backends, and polished frontend applications.
+- **Iroko Data** — Pan-African data infrastructure starting with OHADA legal data. Hybrid RAG, structured APIs, dataset licensing.
 
-> “Code is not just a tool, it’s a voice — and I use mine to build what matters.”
+### Stack
 
-- Strong focus: API design · Web performance · DevOps · Auth systems · Clean architecture  
-- Tools I love: **TypeScript, ElysiaJS, NestJS, PostgreSQL, Prisma, FastAPI, Go, Docker**
-- I care about security, maintainability, and DX (Developer Experience)
+```
+Frontend     Next.js · React Native / Expo · Tailwind
+Backend      FastAPI · Node.js · Express
+AI / Data    LangGraph · PydanticAI · RAG · Langfuse · scikit-learn · PyTorch
+Database     PostgreSQL · pgvector · Qdrant · Prisma · Drizzle
+Infra        Docker · Traefik · Cloudflare Workers · OVH VPS
+Auth         Better Auth · WebAuthn · Cloudflare Turnstile
+```
 
-### Contact Me
-I'm always open to exciting collaborations, impactful projects, or simply tech conversations.
-Feel free to reach out through any of the channels below:
+### Currently
 
-- Portfolio: diallosouleymane.dev
+- Deepening hybrid RAG architectures for legal text
+- Learning scikit-learn & ML pipelines
+- Consultant @ UVCI — deploying apps to production
 
-- Email: diallosouleymane.dev@gmail.com
+### Contact
 
-- LinkedIn: linkedin.com/in/diallosouleymane-dev
-
-- Twitter/X: @souleymane_dev_
-
-- Telegram: @@souleymane_dev_
-
-
-### Current Projects
-
-- **GeoSmart Africa**: Mapping & AI-powered insights for Côte d'Ivoire’s agriculture  
-- **Better Auth Plugin for NestJS** (WIP)  
-- **Mobile Money API Aggregator**: One SDK to rule them all in Francophone Africa
-
-
-### What I Believe In
-
-- Open-source is a mindset, not just a license.  
-- The best code is the one you never have to write twice.  
-- Africa needs more builders — and I’m here for that.
-
-
-### Let’s Connect
-
-- 🌐 [diallosouleymane.dev](https://diallosouleymane.dev) ← (soon)  
-- GitHub = my playground  
-- Currently learning: WebRTC, ONNX, ML, Deep Learning(Honestly I've finished)
-
-
-_“Don't just learn to code. Learn to think.”_ ❤️
+[diallosouleymane.dev](https://diallosouleymane.dev) · [LinkedIn](https://linkedin.com/in/diallosouleymane-dev) · [X](https://x.com/souleymane_dev_) · diallosouleymane.dev@gmail.com
