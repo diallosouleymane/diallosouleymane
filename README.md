@@ -1,1 +1,2 @@
-AI Engineer Live In Côte d'Ivoire.
+Fullstack AI Engineer work at @Jèko :)
+Live In Côte d'Ivoire.
